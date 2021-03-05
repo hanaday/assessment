@@ -1,2 +1,2 @@
-# assessment
-あなたのいいところ診断ゲーム
+# assessment of your back
+あなたの背後診断ゲーム
